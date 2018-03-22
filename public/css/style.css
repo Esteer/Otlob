@@ -1,0 +1,197 @@
+ .home{
+   background-image:url('/images/home-bg.jpg');
+   width:100%;
+   height:100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+ }
+ .indexForm{
+
+  font-size: 40px;
+ }
+/* Team Section
+--------------------------------*/
+.section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+}
+
+.section-description {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.section-title-divider {
+  width: 50px;
+  height: 3px;
+  background: #03C4EB;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+#team {
+  background: #fff;
+  padding: 80px 0 60px 0;
+}
+
+#team .member {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#team .member .pic {
+  margin-bottom: 15px;
+  overflow: hidden;
+  height: 260px;
+}
+
+#team .member .pic img {
+  max-width: 100%;
+}
+
+#team .member h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+#team .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+
+#team .member .social {
+  margin-top: 15px;
+}
+
+#team .member .social a {
+  color: #b3b3b3;
+}
+
+#team .member .social a:hover {
+  color: #03C4EB;
+}
+
+#team .member .social i {
+  font-size: 18px;
+  margin: 0 2px;
+}
+ .aboutus{
+  background-image:url('/images/wood_1.png');
+  width:100%;
+  height:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+ color:white;
+ font-family:"Playfair Display", serif;
+ }
+ .btn-group>.btn:first-child {
+  /* margin-left: 0; */
+  font-size: 20px;
+}
+ 
+.btn:not(:disabled):not(.disabled) {
+  font-size: 20px;
+}
+.form-group {
+ font-size:20px;
+}
+.panel-heading{
+  font-size:20px;
+}
+  
+ @font-face {
+  font-family:"icomoon";
+  src: url('icomoon.ttf') ;
+   
+   
+}
+
+ .home .head{
+  font-family:"Playfair Display", serif;
+  font-style: italic;
+font-size:300px;
+color:rgb(255, 255, 255);
+
+ }
+ .imageRest{
+  border-radius: 10%;
+  width:350px;
+  height:100px;
+
+ }
+  
+ 
+ .btncolor{
+  background-color:#1B7EC8;
+  color:white;
+ }
+ .restName{
+   text-align:center;
+   margin-right:400px;
+ }
+ .cateName{
+  text-align:center;
+   
+}
+select.selectpicker{
+
+  font-size: 20px;
+}
+ .local{
+  font-family:"Playfair Display", serif;
+  
+font-size:40px;
+color:black;
+
+ }
+ .image {
+  border-radius: 10%;
+  width:250px;
+  height:200px;
+}
+.restImage{
+  border-radius: 10%;
+  width:700px;
+  height:700px;
+}
+@font-face {
+  font-family: "cart";
+  src: url('Café Françoise.otf') ;
+}
+@font-face {
+  font-family: "food";
+  src: url('Cherry and Kisses Personal Use.ttf') ;
+}
+@font-face {
+  font-family: "food";
+  src: url('Cherry and Kisses Personal Use.ttf') ;
+}
+
+
+.headfont{
+  font-family:food;
+
+}
+.restCon{
+  width:100%;
+  height:100%;
+}
+.cart{
+  font-family:"Merriweather", serif;
+
+}
+.footer_bottom {
+  padding: 2em 0;
+  height:10px;
+	background: #0f71ba;
+}
+ 
+.imgHome{
+  width: 200px;
+  height: 200px;
+
+}
